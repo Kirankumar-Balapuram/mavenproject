@@ -7,7 +7,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #ff69b4; 
+            background-color: #d3492b; 
             margin: 0;
             padding: 0;
         }
@@ -16,7 +16,7 @@
             margin-top: 100px;
         }
         h1 {
-            color: #0073e6;
+            color: ##6cc22d;
         }
         ul {
             list-style-type: none;
