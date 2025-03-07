@@ -33,13 +33,12 @@
 <body>
     <div class="container">
         <marquee behavior="scroll" direction="left" scrollamount="4">
-            <h1>Welcome to Krishna DevOps Course</h1>
+            <h1>Welcome to My page Man </h1>
         </marquee>
         <ul>
-            <li><strong>Learn DevOps Methodology and principles </strong></li>
-            <li><strong>Master the art of automation and continuous integration</strong></li>
-            <li><strong>Gain hands-on experience with industry-standard tools</strong></li>
-            <li><strong>Join withus and thanks for choosing devops course</strong></li>
+            <li><strong>The only impossible journey is the one you never begin</strong></li>
+            <li><strong>You have to believe in yourself when no one else does</strong></li>
+            <li><strong>A day without sunshine is like, you know, night.</strong></li>
             <li><b> @@@@@Learn here and Lead anywhere@@@@@@@</b></li>
         </ul>
     </div>
